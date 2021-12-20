@@ -1,0 +1,8 @@
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.gz
+.vscode
+__pycache__
+.ipynb_checkpoints
